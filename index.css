@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: cursive , sans-serif;
 }
 
 h1{
@@ -19,6 +19,7 @@ body {
     background-color: #f8f1e4;
     text-align: center;
     color: #333;
+   
 }
 header {
     background: url('https://source.unsplash.com/1600x900/?pizza') center/cover;
@@ -59,14 +60,14 @@ section {
     margin: 20px 0;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
-    font-family: 'Roboto', sans-serif;
+
 
 }
 h2 {
     color: darkkhaki;   
     font-size: 28px;
     margin-bottom: 20px;
-    font-family: 'Roboto', sans-serif;
+
 }
 ul {
     list-style: none;
@@ -100,7 +101,6 @@ p{
     color: cadetblue;
     margin: auto;
     padding: auto;
-    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -148,7 +148,8 @@ p{
         align-items: center;
         align-content: space-between;
         justify-content: center;
-    align-content: center;
-    align-items: center;
+        align-content: center;
+        align-items: center;
     }
   }
+  
